@@ -4,6 +4,8 @@ This project is a **Multi-Modal Interaction System** that enables hands-free con
 
 ## Output
 ![Screenshot 2024-10-06 111157](https://github.com/user-attachments/assets/b9ef5daa-d469-405a-9fdf-cb194ad7736d)
+![Screenshot 2024-10-06 111243](https://github.com/user-attachments/assets/e47fcc10-35e0-4371-b46c-006a8cedb8ee)
+
 
 
 ## Features

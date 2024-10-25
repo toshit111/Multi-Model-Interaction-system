@@ -26,8 +26,8 @@ This project is a **Multi-Modal Interaction System** that enables hands-free con
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/toshit111/Multi-Model-Interaction-system.git
+    cd Multi-Model-Interaction-system
     ```
 
 2. Install dependencies:

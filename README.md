@@ -55,8 +55,5 @@ This project is a **Multi-Modal Interaction System** that enables hands-free con
 - **Left Click**: Blink your left eye for a left-click, or pinch the thumb and index finger for a click.
 - **Right Click**: Blink your right eye for a right-click, or pinch with your middle finger for a right-click.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+## Contact
+toshitfirake2003@gmail.com

@@ -2,6 +2,10 @@
 
 This project is a **Multi-Modal Interaction System** that enables hands-free control of a computer's mouse using **eye tracking**, **head movements**, and **hand gestures**. The system detects facial landmarks for controlling the mouse with eye blinks and head movement and uses hand landmarks for gesture-based mouse control.
 
+## Output
+![Screenshot 2024-10-06 111157](https://github.com/user-attachments/assets/b9ef5daa-d469-405a-9fdf-cb194ad7736d)
+
+
 ## Features
 - **Eye Tracking and Blink Detection**: Move the cursor based on head movements and perform left and right clicks by blinking.
 - **Hand Gesture Recognition**: Move the cursor with your hand, and use finger gestures to simulate left and right mouse clicks.
